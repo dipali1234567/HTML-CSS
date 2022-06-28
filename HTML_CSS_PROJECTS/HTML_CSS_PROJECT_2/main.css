@@ -1,0 +1,17 @@
+
+
+ body{
+     background:#f1f5f9;
+ }
+.container{
+    background:#fff;
+}
+
+#title{
+   color: #645cff;
+}
+
+  .container span {
+    background:rgba(0,0,0,1);
+}
+

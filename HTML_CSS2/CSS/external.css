@@ -1,0 +1,58 @@
+/* css rule */
+/* grouping selectors */
+p ,h2,h3 {
+    color: blue;
+    font-size: large;
+}
+/* element selector */
+h1{
+    color: red;
+    font-size: large;
+}
+/* id selector */
+#title
+{
+  color: black;
+}
+
+/* class selector */
+.aqua{
+    text-transform: uppercase;
+    color: aqua;
+}
+
+.aqua1{
+    text-transform: lowercase;
+    color: aqua;
+}
+
+
+/* div is used to group multiple elements */
+/* span is used to group the inline elements */
+span{
+    text-transform: uppercase;
+    color:red;
+    
+}
+
+
+.div1
+{
+    color:blue;
+    background-color: black;
+}
+
+.get{
+    color: red;
+
+
+}
+
+/* .hiii{
+    color:red;
+    background-color: black;
+} */
+/* Selector */
+/* Declartion block */
+/* properties */
+/* Value */
